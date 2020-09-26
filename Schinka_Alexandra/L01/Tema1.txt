@@ -38,8 +38,7 @@ Aplicația conține o multitudine de funcționalități ce ușurează căutarea 
 3.	Întrebări și răspunsuri: voturi, claritatea întrebării, documentare (research), utilitate/relevanță (utilizatorii care găsesc întrebarea utilă sau care au aceeași problemă)
 -	O întrebare în cadrul aplicației cuprinde textul întrebării (formatat în funcție de preferințele celui care pune întrebarea, în funcție de limbajul utilizat etc.),
 specificații, tag-uri, detalii, încercări precendete, criterii pentru răspunsuri și voturile întrebării.
--	Două aspecte foarte importante sunt relevanța și claritatea întrebării ce cuprind specificații clare ale problemei, contextul, detalii privind încercări precedente,
-bug-uri, tag-uri (maximum 5 tag-uri) și nu în ultimul rând reputația. 
+-	Două aspecte foarte importante sunt relevanța și claritatea întrebării ce cuprind specificații clare ale problemei, contextul, detalii privind încercări precedente,bug-uri, tag-uri (maximum 5 tag-uri) și nu în ultimul rând reputația. 
 -	Reputația este obținută pe baza voturilor utilizatoriilor. Pentru obținerea voturilor (pro/contra) se ține cont de aspectele prezentate mai sus.
 -	Secțiunea de răspunsuri este practic partea interactivă a aplicației ce cuprinde răspunsurile ordonate în funcție de voturile răspunsurilor.  
 -	Votul se face doar de către un utilizator autentificat pe baza criteriilor de relevanță și de utilitate.
