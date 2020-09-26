@@ -24,15 +24,13 @@ categorii să dezvolt o parte din funcționalitățile descoperite de mine, dup�
 
 
 1.	Autentificarea: Log in, Sign up
-La o primă vedere observăm în partea dreaptă de sus a aplicației două butoane: butoanele de „Log in” și „Sign up” pentru autentificare și respectiv pentru crearea unui cont nou,
-ambele având variante multiple precum utlizarea unui cont existent Google, GitHub, Facebook sau crearea/autentificarea clasică.
+- În partea dreaptă de sus a aplicației două butoane: butoanele de „Log in” și „Sign up” pentru autentificare și respectiv pentru crearea unui cont nou, ambele având variante multiple precum utlizarea unui cont existent Google, GitHub, Facebook sau crearea/autentificarea clasică.
 
 
 2.	Căutarea folosind termeni specifici: tag, cuvinte cheie, sortare după criterii, filtrare
 Aplicația conține o multitudine de funcționalități ce ușurează căutarea și găsirea celor mai potrivite răspunsuri la întrebări:
 -	Căutarea după cuvinte cheie sau după întrebare
--	Căutarea după tag-uri (Java, Javascript): tag-urile reprezintă un aspect important al aplicației deoarece permit împărțirea întrebăriilor în categorii optimizând timpul 
-căutării și găsirii răspunsului.
+-	Căutarea după tag-uri (Java, Javascript): tag-urile reprezintă un aspect important al aplicației deoarece permit împărțirea întrebăriilor în categorii optimizând timpul căutării și găsirii răspunsului.
 -	Filtrarea rezultatelor în funcție de răspunsuri (cu sau fără răspunsuri, cu răspunsuri acceptate)
 -	Sortarea rezultatelor după criterii precum: întrebări recente/vechi, întrebări frecvent căutate, întrebări cu număr maxim de voturi, întrebări active.
 
