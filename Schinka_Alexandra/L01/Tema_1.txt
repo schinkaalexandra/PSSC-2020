@@ -1,0 +1,65 @@
+
+
+    Aplicația StackOverflow este o aplicație/site de întrebări și răspunsuri (Q&A) în domeniul programării, o comunitate în care utilizatorii se ajută reciproc
+în vederea găsirii a cât mai multor soluții pentru diverse probleme.
+
+    Utilizatorii, fie ei programatori, pasionați de programare, elevi sau studenți, indiferent de nivel (începători, avansați), pot cere ajutor în rezolvarea
+unor probleme teoretice sau practice, erori, nelămuriri, astfel ei pot primi răspunsuri ce le vor fi de folos atât lor cât și celorlalți care se confruntă cu aceleași probleme/întrebări.
+
+    La o primă vedere a paginii observăm în partea din stânga rubrica „Despre” unde aflăm mai multe informații despre site, cine sunt, cui se adresează,
+produse oferite, investitori, contact, presă și cercetare. Mai există și rubrica „Lucrează aici” (Work here) cu job-uri, cerințe, benefici, calificări.
+
+    Urmează, întorcându-ne la meniul principal „Produse” putem vedea produsele și servicile oferite iar mai apoi rubrica „pentru echipe” (For teams)
+unde întrebările și răspunsurile sunt într-un cadru privat între membrii echipei. Tot aici avem rubrica „Talent” unde putem vedea companiile care oferă job-uri
+și recrutează, putem afla cum să creștem șansele de a fi angajat sau cum să începem o afacere sau un brand. Urmează rubrica de „Advertising” destinată firmelor
+pentru a-și promova afacerile pe StackOverflow deoarece pot ajunge la un public foarte mare.
+
+
+
+++++++  Funcționalitățiile aplicației StackOverflow ++++++
+
+Pentru o mai bună claritate a funcționalitățiilor aplicației, am decis să le împart în 5 categorii, urmând ca în cadrul fiecărei
+categorii să dezvolt o parte din funcționalitățile descoperite de mine, după cum urmează:
+
+
+1.	Autentificarea: Log in, Sign up
+- În partea dreaptă de sus a aplicației două butoane: butoanele de „Log in” și „Sign up” pentru autentificare și respectiv pentru crearea unui cont nou, ambele având variante multiple precum utlizarea unui cont existent Google, GitHub, Facebook sau crearea/autentificarea clasică.
+
+
+2.	Căutarea folosind termeni specifici: tag, cuvinte cheie, sortare după criterii, filtrare
+Aplicația conține o multitudine de funcționalități ce ușurează căutarea și găsirea celor mai potrivite răspunsuri la întrebări:
+-	Căutarea după cuvinte cheie sau după întrebare
+-	Căutarea după tag-uri (Java, Javascript): tag-urile reprezintă un aspect important al aplicației deoarece permit împărțirea întrebăriilor în categorii optimizând timpul căutării și găsirii răspunsului.
+-	Filtrarea rezultatelor în funcție de răspunsuri (cu sau fără răspunsuri, cu răspunsuri acceptate)
+-	Sortarea rezultatelor după criterii precum: întrebări recente/vechi, întrebări frecvent căutate, întrebări cu număr maxim de voturi, întrebări active.
+
+
+3.	Întrebări și răspunsuri: voturi, claritatea întrebării, documentare (research), utilitate/relevanță (utilizatorii care găsesc întrebarea utilă sau care au aceeași problemă)
+-	O întrebare în cadrul aplicației cuprinde textul întrebării (formatat în funcție de preferințele celui care pune întrebarea, în funcție de limbajul utilizat etc.),
+specificații, tag-uri, detalii, încercări precendete, criterii pentru răspunsuri și voturile întrebării.
+-	Două aspecte foarte importante sunt relevanța și claritatea întrebării ce cuprind specificații clare ale problemei, contextul, detalii privind încercări precedente,bug-uri, tag-uri (maximum 5 tag-uri) și nu în ultimul rând reputația. 
+-	Reputația este obținută pe baza voturilor utilizatoriilor. Pentru obținerea voturilor (pro/contra) se ține cont de aspectele prezentate mai sus.
+-	Secțiunea de răspunsuri este practic partea interactivă a aplicației ce cuprinde răspunsurile ordonate în funcție de voturile răspunsurilor.  
+-	Votul se face doar de către un utilizator autentificat pe baza criteriilor de relevanță și de utilitate.
+-	Totodată mai există o categorie de răspunsuri, și anume răspunsurile acceptate de autor ca fiind cele mai bune (dintre toate răspunsurile anterioare) și recompensate 
+cu un anumit număr de puncte (stabilit de autorul întrebării). Răspunsul acceptat de autor nu este cel mai bun răspuns sau cel mai optim ci este, de regulă,
+răspunsul care rezolvă problema prezentată de autor, „răspunsul potrivit”.
+-Editarea este de altfel un aspect important, atât întrebările cât și răspunsurile pot fi editate. 
+-Închiderea șirului de răspunsuri: autorul întrebării poate decide să închidă șirul de răspunsuri pe diverse motive (a găsit răspunsul căutat, 
+a primit destule răspunsuri, etc.).
+
+
+4.	Utilizatori, profil utilizator, puncte obținute, insigne (badges), comunități, reputație
+-	Profilul utilizatorului conține informații despre acesta, descriere, imagine de profil, activitate (răspunsuri anterioare, reputație, interese, insigne (badges),
+voturi, sumar al activității pe site, bookmark-uri, tag-uri), comunitățile din care face parte, număr total de insigne, număr de interacțiuni, 
+prima activitate a profilului și ultima, postările de top (întrebări/răspunsuri).
+- Insignele/ecusoanele se dobândesc pe baza puntelor obținute de utilizator.
+
+
+5. Business și știri: job-uri, ultimele noutăți, podcast
+- Se poate aplica pentru job-uri oferite din cadrul companiei.
+- Există posibilitatea de a contacta persoane sau comunități în cadrul aplicației.
+- Există secțiunea de știri (https://stackoverflow.blog/newsletter/) unde putem vedea toate articolele despre StackOverflow, pentru a fi la curent cu ultimele noutăți.
+- RSS Feed, Apple Podcasts, Google Podcasts, Overcast, SoundCloud, Spotify.
+
+
