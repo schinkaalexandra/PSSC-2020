@@ -1,0 +1,11 @@
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\proiect_PSSC\stackunderflow_start_project\GrainInterfaces\bin\Debug\netstandard2.0\GrainInterfaces.deps.json
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\proiect_PSSC\stackunderflow_start_project\GrainInterfaces\bin\Debug\netstandard2.0\GrainInterfaces.dll
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\proiect_PSSC\stackunderflow_start_project\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.AssemblyInfoInputs.cache
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\proiect_PSSC\stackunderflow_start_project\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.AssemblyInfo.cs
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\proiect_PSSC\stackunderflow_start_project\GrainInterfaces\bin\Debug\netstandard2.0\GrainInterfaces.pdb
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\proiect_PSSC\stackunderflow_start_project\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.orleans.g.args.txt
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\proiect_PSSC\stackunderflow_start_project\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.orleans.g.cs
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\proiect_PSSC\stackunderflow_start_project\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.csproj.CoreCompileInputs.cache
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\proiect_PSSC\stackunderflow_start_project\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.dll
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\proiect_PSSC\stackunderflow_start_project\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.pdb
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\proiect_PSSC\stackunderflow_start_project\GrainInterfaces\obj\Debug\netstandard2.0\GrainInterfaces.csprojAssemblyReference.cache
