@@ -1,0 +1,6 @@
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\proiect_PSSC\stackunderflow_start_project\Backend.Database\bin\Debug\Backend.Database.dacpac
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\proiect_PSSC\stackunderflow_start_project\Backend.Database\bin\Debug\Backend.Database.dll
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\proiect_PSSC\stackunderflow_start_project\Backend.Database\bin\Debug\Backend.Database.pdb
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\proiect_PSSC\stackunderflow_start_project\Backend.Database\obj\Debug\Backend.Database.sqlprojAssemblyReference.cache
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\proiect_PSSC\stackunderflow_start_project\Backend.Database\obj\Debug\Backend.Database.dll
+E:\AC-IS-2017-2021\Anul 4\Semestrul 1\proiect_PSSC\stackunderflow_start_project\Backend.Database\obj\Debug\Backend.Database.pdb
